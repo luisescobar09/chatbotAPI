@@ -1,0 +1,5 @@
+web.py
+firebase-admin
+pyrebase
+fpdf
+PyJWT
